@@ -1,5 +1,9 @@
 # Wanderlust – Property Listing Platform
 
+Project deployed on render:
+https://wanderlust-qrj9.onrender.com/listings
+
+
 ## 📌 Project Overview
 
 **Wanderlust – Property Listing Platform** is a web-based application designed to help property owners and hosts list and showcase **apartments, villas, hotels, and rooms** for travelers and visitors. The platform focuses only on **property listing and discovery** and does **not include booking or payment functionality**.
